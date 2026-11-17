@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "VanGym",
+    "slug": "vangym",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {}
+  }
+}
